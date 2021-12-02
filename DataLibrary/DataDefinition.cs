@@ -234,6 +234,7 @@ namespace DataLibrary
             BladeStation.Add(new BladeStation_31());
             NonlinearKeyPoints.Add(new NonlinearKeyPoints_45());
             BladeModes.Add(new BladeModes_63());
+            SectionMatrix.Add(new SectionMatrix_59());
         }
         public void setValue(List<object> obj)
         {
